@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jadarshj (Aadarsh Jain)
 - 👀 I’m interested in Coding and having good knowledge of C , C++ language
-- 🌱 I’m currently a student in STVPCET Nagpur Maharashtra
+- 🌱 I’m a Fianl Year student at STVPCET Nagpur Maharashtra
 - 💞️ I’m looking to collaborate on some problems which can be solved in C or C++ 
 - 📫 How to reach me 
 - contact me at
