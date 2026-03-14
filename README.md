@@ -31,7 +31,7 @@
 - 👀 Coding Enthuastic and holding good knowledge of **C , C++** and I am Intermediate in **JAVA , PYTHON**
 - 💻 Intrested in Machine Learning , IOT .
 - 💼 Intern at RMC (Regional Meteorological Centre, Nagpur)
-- 🌱 I’m a Fianl Year student at STVPCET Nagpur Maharashtra
+- 🌱 I’m a Final Year student at STVPCET Nagpur Maharashtra
 - 💞️ I’m looking to collaborate for Projects 
 
 
